@@ -39,7 +39,7 @@ Open File Explorer → right-click **This PC** → **Properties** → scroll dow
 
 (This is also where you can rename the computer if you'd like.)
 
-If you don't remember the domain name, check Active Directory Users and Computers on the server — it's displayed there.
+If you don't remember the domain name, check Active Directory Users and Computers on the windows server — it's displayed there.
 
 <img width="726" height="460" alt="image" src="https://github.com/user-attachments/assets/6089b5c2-86be-4f4a-b78f-91b947de26c2" />
 
